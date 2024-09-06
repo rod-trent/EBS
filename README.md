@@ -12,10 +12,12 @@ Check out the growing list of series images.
 
 https://github.com/rod-trent/EBS/tree/main/Images 
 
+Grab the Windows desktop wallpaper: https://github.com/rod-trent/EBS/blob/main/Images/Covers/earthbound%20shadows_JPG.jpg 
+
 ## The Story
 
 _Coming..._
 
 <br><br>
 
-<p align="center"><img src="https://github.com/rod-trent/TwinWithin/blob/main/Images/TwinWithinSmallerJPG.png"></center></p>
+<p align="center"><img src="https://github.com/rod-trent/EBS/blob/main/Images/Covers/earthbound%20shadows_smaller.png"></center></p>
