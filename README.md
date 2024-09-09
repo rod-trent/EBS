@@ -6,7 +6,7 @@ My fiction novel, Earthbound Shadows, is in the initial stages of writing and wi
 
 Available now for pre-order: _coming..._
 
-A free sample first chapter is now available! _coming..._
+A free sample first chapter is now available! https://github.com/rod-trent/EBS/blob/main/Sample_Chapter/EBS_Chapter_1.pdf 
 
 Check out the growing list of series images.
 
