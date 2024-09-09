@@ -4,7 +4,7 @@ Welcome to the repository for the Earthbound Shadows book by <a href="https://am
 
 My fiction novel, Earthbound Shadows, is in the initial stages of writing and will be available in paperback and Kindle/eBook in early 2025. Amazon's Kindle Unlimited members will be able to read it for free.
 
-Available now for pre-order: _coming..._
+Available now for pre-order from Amazon: https://amzn.to/3ATLd57 
 
 A free sample first chapter is now available! https://github.com/rod-trent/EBS/blob/main/Sample_Chapter/EBS_Chapter_1.pdf 
 
