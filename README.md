@@ -8,9 +8,7 @@ Available now for pre-order from Amazon: https://amzn.to/3ATLd57
 
 A free sample first chapter is now available! https://github.com/rod-trent/EBS/blob/main/Sample_Chapter/EBS_Chapter_1.pdf 
 
-Check out the growing list of series images.
-
-https://github.com/rod-trent/EBS/tree/main/Images 
+Check out the growing list of series images: https://github.com/rod-trent/EBS/tree/main/Images 
 
 Grab the Windows desktop wallpaper: https://github.com/rod-trent/EBS/blob/main/Images/Covers/earthbound%20shadows_JPG.jpg 
 
@@ -26,4 +24,4 @@ _The turning point comes during an excruciating alien abduction when Owen confro
 
 <br><br>
 
-<p align="center"><img src="https://github.com/rod-trent/QuantumTides/blob/main/Images/800x600.png?raw=true"></center></p>
+<p align="center"><img src="https://github.com/rod-trent/EBS/blob/main/Images/Covers/earthbound%20shadows_smaller.png?raw=true"></center></p>
