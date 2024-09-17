@@ -26,4 +26,4 @@ _The turning point comes during an excruciating alien abduction when Owen confro
 
 <br><br>
 
-<p align="center"><img src="https://github.com/rod-trent/EBS/blob/main/Images/Covers/earthbound%20shadows_smaller.png"></center></p>
+<p align="center"><img src="https://github.com/rod-trent/QuantumTides/blob/main/Images/800x600.png?raw=true"></center></p>
